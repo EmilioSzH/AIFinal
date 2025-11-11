@@ -1,0 +1,13 @@
+1. install dependencies
+
+cpu only version: 
+pip install numpy opencv-python matplotlib scikit-learn tqdm torch torchvision
+
+gpu version cuda 11.8
+pip install numpy opencv-python matplotlib scikit-learn tqdm torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
+gpu version cuda 12.1
+pip install numpy opencv-python matplotlib scikit-learn tqdm torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+2. run AIFinal.py
+I open the whole folder in vscode, open AIFinal.py and run it that way
