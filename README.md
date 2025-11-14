@@ -6,6 +6,8 @@
 
 ---
 
+![](https://github.com/EmilioSzH/AIFinal/blob/main/output/sample_predictions.png)
+
 ## Overview  
 This project implements a Convolutional Recurrent Neural Network (CRNN) for breaking text-based CAPTCHA systems.  
 The model combines a CNN feature extractor, a bidirectional LSTM sequence model, and a Connectionist Temporal Classification (CTC) loss function to perform end-to-end sequence recognition directly from images.
