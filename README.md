@@ -118,6 +118,8 @@ Training curves and prediction samples are saved in the `output` directory.
 
 A training curve figure is included in the repository as `training_curves.png`.
 
+![](https://github.com/EmilioSzH/AIFinal/blob/main/output/training_curves.png)
+
 ---
 
 ## Dataset  
